@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /adrien-mentions-legales.html
+Disallow: /adrien-politique-confidentialite.html
+Disallow: /adrien-cgv-cgu.html
+
+Sitemap: https://adriencrozat.fr/sitemap.xml
